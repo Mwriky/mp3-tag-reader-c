@@ -32,8 +32,7 @@ This project is a command-line based MP3 Tag Reader and Editor developed in C. I
 gcc main.c view.c edit.c -o mp3_tag
 
 ## 📷 Sample Output
-
-
+![Output Screenshot](output.png)
 
 ## 🔗 GitHub Repository
 https://github.com/Mwriky/mp3-tag-reader-c
